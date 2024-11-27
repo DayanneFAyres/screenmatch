@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### config files ###
+.id_ed25519.pub.swp
+.id_ed25519.ssh.swp
+key_git
+*.pub
